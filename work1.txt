@@ -1,1 +1,3 @@
 I am work1
+ssh-keygen -t ed25519 -C "your_email@example.com"
+ssh-keygen
